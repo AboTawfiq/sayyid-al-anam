@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/33938446/index.html.html)
 <!DOCTYPE html>
 <html lang="ar" dir="rtl" class="scroll-smooth">
 <head>
